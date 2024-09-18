@@ -2,5 +2,9 @@ hello don
 heyy
 github 5j
 from lp 5j
+<<<<<<< HEAD
 
 this is edited on 1 july.
+=======
+this for 27 june.
+>>>>>>> 56010867f041e3b767e34147ec808d23fc86cc8e
