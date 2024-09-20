@@ -1,1 +1,1 @@
-Tthis is file four, which for tested purpose only.
+This is file four, which for tested purpose only.
